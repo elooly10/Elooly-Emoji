@@ -1,8 +1,8 @@
 # Hello
 
+![Elooly Emoji Logo](https://elooly10.github.io/Elooly-Emoji/core/Logo.svg)
+
 __Welcome TO Elooly Emoji!__ (Previously Called _ASHLING FONTS_)
-Inline-style: 
-![Elooly Emoji Logo](https://elooly10.github.io/elooly-emoij/core/logo.svg "")
 
 __Elooly Emoji__ is a site of compartmentalized emojis not on unicode! They include 28 dogs, 14 books, and lots of faces!
 
