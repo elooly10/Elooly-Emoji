@@ -49,5 +49,6 @@ images are capitallized and camelcase in lowercase-named folders like __dogs/Bea
 ### Side Notes
 * Included in all packages.
 
-__ Thank you for using Elooly Emoji __
+__Thank you for using Elooly Emoji__
+
 __By Elooly ❤️__
