@@ -1,0 +1,50 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5_44)">
+<ellipse cx="51" cy="59.5" rx="40" ry="40.5" fill="#FFE4B1"/>
+<mask id="mask0_5_44" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="10" width="34" height="37">
+<path d="M7.02149 46.4027C6.23256 46.8105 5.34319 46.0642 5.60775 45.2164L15.8274 12.4688C16.0401 11.7873 16.8779 11.5417 17.4248 12.0006L37.6807 28.9973C38.2276 29.4562 38.1313 30.3239 37.497 30.6517L7.02149 46.4027Z" fill="black"/>
+<path d="M15.3505 12.5608C16.0944 11.6743 17.1173 11.0367 18.3608 10.6845C19.6044 10.3322 21.0442 10.2722 22.5981 10.5078C24.152 10.7434 25.7895 11.2701 27.4171 12.0578C29.0448 12.8454 30.6307 13.8786 32.0844 15.0984C33.538 16.3181 34.8309 17.7005 35.8893 19.1667C36.9476 20.6329 37.7506 22.1541 38.2525 23.6434C38.7544 25.1328 38.9453 26.5611 38.8143 27.847C38.6833 29.1328 38.233 30.2509 37.4892 31.1374L26.4198 21.8491L15.3505 12.5608Z" fill="black"/>
+</mask>
+<g mask="url(#mask0_5_44)">
+<rect x="18.4642" y="60.4223" width="37.4" height="48.175" transform="rotate(-140 18.4642 60.4223)" fill="url(#paint0_radial_5_44)"/>
+</g>
+<mask id="mask1_5_44" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="61" y="9" width="34" height="37">
+<path d="M94.5205 44.6459C94.7851 45.4936 93.8957 46.2399 93.1068 45.8322L62.6312 30.0812C61.997 29.7534 61.9007 28.8857 62.4476 28.4267L82.7034 11.4301C83.2503 10.9712 84.0881 11.2167 84.3008 11.8982L94.5205 44.6459Z" fill="black"/>
+<path d="M62.6391 30.5669C61.8952 29.6803 61.4449 28.5622 61.314 27.2764C61.183 25.9906 61.3739 24.5622 61.8758 23.0729C62.3776 21.5835 63.1807 20.0623 64.239 18.5961C65.2973 17.13 66.5902 15.7476 68.0439 14.5278C69.4975 13.3081 71.0834 12.2749 72.7111 11.4872C74.3388 10.6996 75.9763 10.1729 77.5302 9.93725C79.0841 9.70162 80.5239 9.76165 81.7674 10.1139C83.011 10.4662 84.0339 11.1038 84.7778 11.9903L73.7084 21.2786L62.6391 30.5669Z" fill="black"/>
+</mask>
+<g mask="url(#mask1_5_44)">
+<rect x="110.314" y="35.8114" width="37.4" height="48.175" transform="rotate(140 110.314 35.8114)" fill="url(#paint1_radial_5_44)"/>
+</g>
+<mask id="mask2_5_44" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="11" y="19" width="80" height="81">
+<ellipse cx="51" cy="59.5" rx="40" ry="40.5" fill="#FFE4B1"/>
+</mask>
+<g mask="url(#mask2_5_44)">
+<circle cx="33" cy="52" r="6" fill="#F0F0F0"/>
+<circle cx="33" cy="52" r="5" fill="#804E33"/>
+<circle cx="33" cy="52" r="2.5" fill="black"/>
+<circle cx="69" cy="52" r="6" fill="#F0F0F0"/>
+<circle cx="69" cy="52" r="5" fill="#804E33"/>
+<circle cx="69" cy="52" r="2.5" fill="black"/>
+<path d="M33 85C33 75.0589 41.0589 67 51 67C60.9411 67 69 75.0589 69 85V101H33V85Z" fill="#F0F0F0"/>
+<path d="M41 74C41 71.2386 43.2386 69 46 69H56C58.7614 69 61 71.2386 61 74V81.5C61 85.6421 57.6421 89 53.5 89H48.5C44.3579 89 41 85.6421 41 81.5V74Z" fill="#4E564E"/>
+<circle cx="46.5" cy="77.5" r="2.5" fill="black"/>
+<circle cx="55.5" cy="77.5" r="2.5" fill="black"/>
+<path d="M26.6748 104.5L50.5 89.2966L74.3252 104.5H26.6748Z" stroke="black" stroke-width="0.5"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_5_44" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(37.1642 84.5098) rotate(90) scale(24.0875 18.7)">
+<stop stop-color="#CC9966"/>
+<stop offset="0.661458" stop-color="#FFE4B1"/>
+<stop offset="0.661558" stop-color="#FFE4B1"/>
+</radialGradient>
+<radialGradient id="paint1_radial_5_44" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(129.014 59.8989) rotate(90) scale(24.0875 18.7)">
+<stop stop-color="#CC9966"/>
+<stop offset="0.661458" stop-color="#FFE4B1"/>
+<stop offset="0.661558" stop-color="#FFE4B1"/>
+</radialGradient>
+<clipPath id="clip0_5_44">
+<rect width="100" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>

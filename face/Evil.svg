@@ -1,0 +1,18 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_18_106)">
+<circle cx="50" cy="50" r="50" fill="#F6E033"/>
+<ellipse cx="32.5" cy="39" rx="7.5" ry="10" fill="black" fill-opacity="0.8"/>
+<ellipse cx="67.5" cy="39" rx="7.5" ry="10" fill="black" fill-opacity="0.8"/>
+<path d="M80 61C80 64.9397 79.224 68.8407 77.7164 72.4805C76.2087 76.1203 73.999 79.4274 71.2132 82.2132C68.4274 84.999 65.1203 87.2087 61.4805 88.7164C57.8407 90.224 53.9397 91 50 91C46.0603 91 42.1593 90.224 38.5195 88.7164C34.8797 87.2087 31.5726 84.999 28.7868 82.2132C26.001 79.4274 23.7913 76.1203 22.2836 72.4805C20.776 68.8407 20 64.9397 20 61H25.6625C25.6625 64.196 26.2921 67.3608 27.5151 70.3135C28.7382 73.2663 30.5309 75.9492 32.7908 78.2092C35.0508 80.4691 37.7337 82.2618 40.6865 83.4849C43.6392 84.7079 46.804 85.3374 50 85.3374C53.196 85.3375 56.3608 84.7079 59.3135 83.4849C62.2663 82.2618 64.9492 80.4691 67.2092 78.2092C69.4691 75.9492 71.2618 73.2663 72.4849 70.3135C73.7079 67.3608 74.3374 64.196 74.3374 61H80Z" fill="#F08080"/>
+<circle cx="50" cy="39" r="50" fill="url(#paint0_radial_18_106)" fill-opacity="0.6"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_18_106" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(50 39) rotate(90) scale(50)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#CCCCCC" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_18_106">
+<rect width="100" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
