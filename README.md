@@ -1,18 +1,19 @@
 # Hello
 
-![Elooly Emoji Logo](https://elooly10.github.io/Elooly-Emoji/core/Logo.svg)
+![Elooly Emoji Logo](https://raw.githubusercontent.com/elooly10/Elooly-Emoji/1.4/core/Logo.svg)
 
 __Welcome TO Elooly Emoji (BETA)!__ (Previously Called _ASHLING FONTS_)
 
 __Elooly Emoji__ is a site of compartmentalized emojis not on unicode! They include 28 dogs, 14 books, 75 shapes, and lots of faces!
 
-They are split into 4 sections:
+They are split into 5 sections:
 *  CORE
 *  DOGS
 *  BOOKS
+*  SHAPES
 *  FACES
 But also parts of faces (e.g. eyes)!
-All emojis are avalible under elooly10.github.io/elooly-emoji/_part_/_image_.svg
+All emojis are avalible via downloading eloolyEmoji-1.4b1-generic.zip on the 1.4 branch.
 images are capitallized and camelcase in lowercase-named folders like __dogs/Beagle.svg__
 
 
@@ -61,5 +62,4 @@ images are capitallized and camelcase in lowercase-named folders like __dogs/Bea
 ### Side Notes
 * Included in all packages.
 
-__ Thank you for using Elooly Emoji __
-__By Elooly ❤️__
+__Thank you for using Elooly Emoji__ - __By Elooly ❤️__
