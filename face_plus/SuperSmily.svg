@@ -1,0 +1,27 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_18_106)">
+<circle cx="50" cy="50" r="50" fill="#F6E033"/>
+<path d="M22.0368 41.5004C22.2725 38.3081 23.6264 35.3358 25.8192 33.1968C28.0121 31.0578 30.8766 29.9153 33.8218 30.0049C36.7671 30.0945 39.5683 31.4095 41.6476 33.6785C43.727 35.9475 44.9257 38.9974 44.9967 42.1991L40.6525 42.3128C40.6084 40.3209 39.8625 38.4234 38.5689 37.0118C37.2753 35.6002 35.5326 34.7821 33.7002 34.7264C31.8679 34.6706 30.0858 35.3814 28.7215 36.7121C27.3573 38.0429 26.5149 39.892 26.3684 41.8781L22.0368 41.5004Z" fill="black" fill-opacity="0.8"/>
+<path d="M56.0368 41.5004C56.2725 38.3081 57.6264 35.3358 59.8192 33.1968C62.0121 31.0578 64.8766 29.9153 67.8218 30.0049C70.7671 30.0945 73.5683 31.4095 75.6476 33.6785C77.727 35.9475 78.9257 38.9974 78.9967 42.1991L74.6525 42.3128C74.6084 40.3209 73.8625 38.4234 72.5689 37.0118C71.2753 35.6002 69.5326 34.7821 67.7002 34.7264C65.8679 34.6706 64.0858 35.3814 62.7215 36.7121C61.3573 38.0429 60.5149 39.892 60.3684 41.8781L56.0368 41.5004Z" fill="black" fill-opacity="0.8"/>
+<path d="M30.2227 70.2108C36.7672 73.0293 43.8385 74.4164 50.9628 74.2792C58.087 74.142 65.0997 72.4836 71.5308 69.4152L68.9471 64C63.2877 66.7002 57.1166 68.1596 50.8472 68.2803C44.5779 68.401 38.3551 67.1804 32.596 64.7001L30.2227 70.2108Z" fill="#F08080"/>
+<mask id="mask0_18_106" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+<circle cx="50" cy="50" r="50" fill="url(#paint0_linear_18_106)"/>
+</mask>
+<g mask="url(#mask0_18_106)">
+<circle cx="49" cy="40" r="50" fill="url(#paint1_radial_18_106)" fill-opacity="0.6"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_18_106" x1="50" y1="0" x2="50" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFB14E"/>
+<stop offset="1" stop-color="#FFE433"/>
+</linearGradient>
+<radialGradient id="paint1_radial_18_106" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(49 40) rotate(90) scale(50)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#CCCCCC" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_18_106">
+<rect width="100" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>

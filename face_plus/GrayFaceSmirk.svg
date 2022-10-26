@@ -1,0 +1,27 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_18_106)">
+<circle cx="50" cy="50" r="50" fill="#B1B1B1"/>
+<ellipse cx="32.625" cy="38.5" rx="5.625" ry="7.5" fill="black" fill-opacity="0.8"/>
+<ellipse cx="67.625" cy="38.5" rx="5.625" ry="7.5" fill="black" fill-opacity="0.8"/>
+<path d="M70.0036 79.3575C66.3948 82.5863 62.0581 84.8936 57.3639 86.0822C52.6697 87.2708 47.7575 87.3054 43.047 86.1831C38.3365 85.0608 33.9676 82.8149 30.3137 79.6373C26.6597 76.4597 23.8293 72.4448 22.0641 67.9356L27.3371 65.8715C28.7691 69.5296 31.0652 72.7867 34.0295 75.3645C36.9938 77.9423 40.538 79.7643 44.3594 80.6748C48.1808 81.5852 52.1658 81.5571 55.9739 80.5929C59.7821 79.6286 63.3003 77.7568 66.2279 75.1374L70.0036 79.3575Z" fill="#4E4E4E"/>
+<mask id="mask0_18_106" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+<circle cx="50" cy="50" r="50" fill="url(#paint0_linear_18_106)"/>
+</mask>
+<g mask="url(#mask0_18_106)">
+<circle cx="49" cy="40" r="50" fill="url(#paint1_radial_18_106)" fill-opacity="0.6"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_18_106" x1="50" y1="0" x2="50" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFB14E"/>
+<stop offset="1" stop-color="#FFE433"/>
+</linearGradient>
+<radialGradient id="paint1_radial_18_106" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(49 40) rotate(90) scale(50)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#CCCCCC" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_18_106">
+<rect width="100" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
