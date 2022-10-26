@@ -1,0 +1,49 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_18_106)">
+<circle cx="50" cy="50" r="50" fill="#F6E033"/>
+<path d="M30.2227 70.2108C36.7672 73.0293 43.8385 74.4164 50.9628 74.2792C58.087 74.142 65.0997 72.4836 71.5308 69.4152L68.9471 64C63.2877 66.7002 57.1166 68.1596 50.8472 68.2803C44.5779 68.401 38.3551 67.1804 32.596 64.7001L30.2227 70.2108Z" fill="#F08080"/>
+<mask id="mask0_18_106" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+<circle cx="50" cy="50" r="50" fill="url(#paint0_linear_18_106)"/>
+</mask>
+<g mask="url(#mask0_18_106)">
+<path d="M19 28H48C48.5523 28 49 28.4477 49 29V42C49 46.9706 44.9706 51 40 51H27C22.0294 51 18 46.9706 18 42V29C18 28.4477 18.4477 28 19 28Z" fill="#332211" stroke="black" stroke-width="2"/>
+<path d="M54 28H83C83.5523 28 84 28.4477 84 29V40C84 46.0751 79.0751 51 73 51H64C57.9249 51 53 46.0751 53 40V29C53 28.4477 53.4477 28 54 28Z" fill="#332211" stroke="black" stroke-width="2"/>
+<line x1="4.99728" y1="27.4945" x2="95.0028" y2="27.4945" stroke="black" stroke-width="2"/>
+</g>
+<mask id="mask1_18_106" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+<circle cx="50" cy="50" r="50" fill="url(#paint1_linear_18_106)"/>
+</mask>
+<g mask="url(#mask1_18_106)">
+<path d="M19 28H48C48.5523 28 49 28.4477 49 29V42C49 46.9706 44.9706 51 40 51H27C22.0294 51 18 46.9706 18 42V29C18 28.4477 18.4477 28 19 28Z" stroke="black" stroke-width="2"/>
+<path d="M54 28H83C83.5523 28 84 28.4477 84 29V40C84 46.0751 79.0751 51 73 51H64C57.9249 51 53 46.0751 53 40V29C53 28.4477 53.4477 28 54 28Z" stroke="black" stroke-width="2"/>
+<line x1="4.99728" y1="27.4945" x2="95.0028" y2="27.4945" stroke="black" stroke-width="2"/>
+</g>
+<mask id="mask2_18_106" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+<circle cx="50" cy="50" r="50" fill="url(#paint2_linear_18_106)"/>
+</mask>
+<g mask="url(#mask2_18_106)">
+<circle cx="49" cy="40" r="50" fill="url(#paint3_radial_18_106)" fill-opacity="0.6"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_18_106" x1="50" y1="0" x2="50" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFB14E"/>
+<stop offset="1" stop-color="#FFE433"/>
+</linearGradient>
+<linearGradient id="paint1_linear_18_106" x1="50" y1="0" x2="50" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFB14E"/>
+<stop offset="1" stop-color="#FFE433"/>
+</linearGradient>
+<linearGradient id="paint2_linear_18_106" x1="50" y1="0" x2="50" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFB14E"/>
+<stop offset="1" stop-color="#FFE433"/>
+</linearGradient>
+<radialGradient id="paint3_radial_18_106" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(49 40) rotate(90) scale(50)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#CCCCCC" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_18_106">
+<rect width="100" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
